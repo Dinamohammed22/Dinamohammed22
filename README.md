@@ -3,7 +3,7 @@
 <h2 align="center">💻 Full Stack .NET Developer | 🚀 Backend-Focused</h2>
 
 <p align="center">
-  <i>Building APIs • Solving Problems • Learning • Turning Ideas Into Software</i>
+  <strong>Building APIs • Solving Problems • Learning • Turning Ideas Into Software</strong>
 </p>
 
 <p align="center">
@@ -16,24 +16,16 @@
 
 # 💫 About Me
 
-👋 I'm a **Full Stack .NET Developer with a strong focus on backend development**, passionate about building reliable APIs, solving real-world problems, and continuously improving the way I design and develop software.
+👋 I'm a **Full Stack .NET Developer with a strong focus on backend development**, passionate about building reliable APIs, solving real-world problems, and writing clean, maintainable software.
 
 🎓 **Computer Science Graduate — 2023**
 🏆 **ITI 9-Month Professional Web Development & BI Graduate**
 
-💻 I work mainly with **C#, .NET, ASP.NET Core, Web APIs, SQL Server, and Entity Framework Core**, with additional experience in **Angular and React**.
+💻 My main stack includes **C#, .NET, ASP.NET Core, Web APIs, SQL Server, and Entity Framework Core**, with experience in **Angular and React**.
 
 🏗️ I've worked with **Clean Architecture, CQRS, MediatR, Vertical Slice Architecture, JWT Authentication, Redis, Hangfire, FluentValidation, AutoMapper, and SignalR**.
 
-🚀 I've built projects such as a **Lost Phone Finder**, an **HR Management System**, an **E-commerce Application**, and **Booking APIs**, applying backend concepts to practical problems.
-
-📚 Currently, I'm deepening my knowledge of **backend architecture and system design** while learning more about **Docker, cloud deployment, distributed systems, caching, scalability, and modern .NET practices**.
-
-🤝 I'm interested in collaborating on **.NET/backend projects, open-source projects, SaaS products, and real-world software solutions**.
-
-🎯 I'm looking for opportunities where I can grow as a **backend-focused .NET developer**, contribute to meaningful products, solve challenging problems, and learn from a strong engineering team.
-
-♟️ **Fun fact:** I enjoy chess, and it has definitely influenced how I approach problem-solving — **think ahead, analyze the possibilities, and don't rush the move.**
+🚀 I enjoy working on projects that involve **backend architecture, business logic, APIs, databases, authentication, and real-world problem solving**.
 
 ---
 
@@ -47,15 +39,16 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
-### 🏗️ Architecture & Backend Tools
+### 🏗️ Architecture & Backend Technologies
 
 ![CQRS](https://img.shields.io/badge/CQRS-333333?style=for-the-badge)
 ![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-00A98F?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ### 🎨 Frontend
 
@@ -63,21 +56,15 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🧰 Tools & Workflow
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### 🌱 Currently Exploring
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Technologies-4285F4?style=for-the-badge)
 
 ---
 
@@ -85,18 +72,18 @@
 
 ### 📱 Lost Phone Finder
 
-A backend-focused ASP.NET Core project designed to help identify and manage lost or stolen phones.
+An ASP.NET Core application designed to help identify and manage lost or stolen phones.
 
-**🔧 Built with:**
+**⚙️ Technologies:**
 `C#` `ASP.NET Core` `CQRS` `Redis` `Firebase` `Hangfire`
 
 ---
 
 ### 👥 HR Management System
 
-A web application focused on employee management and HR-related business workflows.
+A web application for managing employees and HR-related business workflows.
 
-**🔧 Built with:**
+**⚙️ Technologies:**
 `.NET` `SQL Server` `Entity Framework Core`
 
 ---
@@ -105,104 +92,52 @@ A web application focused on employee management and HR-related business workflo
 
 A .NET-based application covering APIs, business logic, database integration, and e-commerce workflows.
 
-**🔧 Built with:**
+**⚙️ Technologies:**
 `.NET` `Web API` `SQL Server` `Entity Framework Core`
 
 ---
 
 ### 📅 Booking API
 
-A backend project focused on designing RESTful APIs and implementing booking-related functionality.
+A backend project focused on RESTful API development and booking functionality.
 
-**🔧 Built with:**
+**⚙️ Technologies:**
 `C#` `.NET` `Web API` `SQL Server`
 
 ---
 
-# 🧠 How I Think About Development
+# 📚 What I'm Learning
 
-<p align="center">
+🧠 **System Design & Backend Architecture**
 
-**💡 Understand the Problem**
-⬇️
-**🏗️ Design the Solution**
-⬇️
-**⚙️ Build the Logic**
-⬇️
-**🗄️ Design the Data**
-⬇️
-**🔌 Build the API**
-⬇️
-**🧪 Test & Debug**
-⬇️
-**🚀 Improve & Scale**
+🐳 **Docker & Containerization**
 
-</p>
+☁️ **Cloud Technologies**
 
-> 💭 *I don't just want code that works — I want to understand why it works and how it can be improved.*
+⚡ **Scalable & Distributed Systems**
+
+🔄 **Modern .NET Development Practices**
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">🎯 Let's Build Something Great</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Dinamohammed22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  I'm always interested in connecting with developers, engineers, and teams working on
+  <strong>.NET, backend engineering, SaaS, and real-world software solutions.</strong>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dinamohammed22&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/dina-abdelaziz-3616571a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dinam562001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dinamohammed22&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  ♟️ <strong>Fun fact:</strong> I enjoy chess — think ahead, analyze the possibilities, and don't rush the move.
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dinamohammed22&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-# ♟️ Beyond the Code
-
-I enjoy **chess**, sports, and learning new things.
-
-Chess especially taught me something I use in programming every day:
-
-> **Don't make the first move that works. Look at the next few moves. 🧠♟️**
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dina-abdelaziz-3616571a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dinam562001@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dinamohammed22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<h3 align="center">🚀 Build. Learn. Solve. Repeat. 🔄</h3>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for stopping by! 👋</i>
-</p>
+<h3 align="center">🚀 Build • Learn • Solve • Repeat 🔄</h3>
