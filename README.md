@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Dina Abdelaziz</h1>
+<h1 align="center">👋 Hi, I'm Dina Mohammed Abdelaziz</h1>
 
 <h2 align="center">💻 Full Stack .NET Developer | 🚀 Backend-Focused</h2>
 
